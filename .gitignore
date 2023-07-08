@@ -1,1 +1,3 @@
 /node_modules
+/routes/invoices.test2.js
+/routes/companies.test2.js
